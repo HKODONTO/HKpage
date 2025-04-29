@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>HK Odontologia - Links</title>
+</head>
+<body style="background-color: #f0f0f0; font-family: Arial, sans-serif; text-align: center; padding: 30px;">
+
+<h1 style="color: #D4AF37;">Bem-vindo à HK Odontologia</h1>
+<p style="color: #D4AF37;">Escolha uma opção para falar conosco:</p>
+
+<div style="margin-top: 30px; display: flex; flex-direction: column; gap: 20px; align-items: center;">
+
+    <a href="https://wa.me/5511932060883?text=Olá,%20gostaria%20de%20agendar%20uma%20consulta!" target="_blank" 
+       style="background-color: #25D366; color: white; padding: 15px 30px; text-decoration: none; 
+              border-radius: 50px; font-size: 18px; display: inline-flex; align-items: center; gap: 10px; 
+              transition: background-color 0.3s ease;">
+        <img src="https://img.icons8.com/ios-filled/24/ffffff/whatsapp--v1.png" alt="WhatsApp" style="width:24px; height:24px;">
+        Falar no WhatsApp
+    </a>
+
+    <a href="https://www.instagram.com/hkodonto/" target="_blank" 
+       style="background-color: #C13584; color: white; padding: 15px 30px; text-decoration: none; 
+              border-radius: 50px; font-size: 18px; display: inline-flex; align-items: center; gap: 10px; 
+              transition: background-color 0.3s ease;">
+        <img src="https://img.icons8.com/ios-filled/24/ffffff/instagram-new--v1.png" alt="Instagram" style="width:24px; height:24px;">
+        Ver Instagram
+    </a>
+
+    <a href="https://www.google.com.br/maps/place/HK+Odontologia+Especializada/@-23.5490826,-46.2497803,16.75z/data=!4m6!3m5!1s0x94ce77317d0f2ff3:0x52d83958105e1990!8m2!3d-23.5454007!4d-46.2530101!16s%2Fg%2F11y22qs124?entry=ttu" target="_blank" 
+       style="background-color: #4285F4; color: white; padding: 15px 30px; text-decoration: none; 
+              border-radius: 50px; font-size: 18px; display: inline-flex; align-items: center; gap: 10px; 
+              transition: background-color 0.3s ease;">
+        <img src="https://img.icons8.com/ios-filled/24/ffffff/marker.png" alt="Localização" style="width:24px; height:24px;">
+        Como chegar
+    </a>
+
+</div>
+
+</body>
+</html>
